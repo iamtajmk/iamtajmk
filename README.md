@@ -48,13 +48,13 @@ Core Focus: C# · ASP.NET Core · ASP.NET MVC · Blazor · SQL Server · REST AP
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔭 Working On
+###  Working On
 
 - Enterprise HRMS and HRMIS systems
 - ASP.NET Core and ASP.NET MVC modules
@@ -137,8 +137,8 @@ Core Focus: C# · ASP.NET Core · ASP.NET MVC · Blazor · SQL Server · REST AP
 
 ## 💼 Professional Experience
 
-### .NET Developer — **FBM Solutions**
-**2022 – Present · Islamabad, Pakistan**
+### .NET Developer  **FBM Solutions**
+**2023 – Present · Islamabad, Pakistan**
 
 - Built and enhanced enterprise HRMS modules including **Attendance**, **Employee Profile**, **Company Structure**, and **Recruitment** workflows.
 - Developed and maintained web applications using **C#**, **ASP.NET MVC**, **ASP.NET Core**, **Blazor**, **JavaScript**, **Bootstrap**, and **SQL Server**.
@@ -149,7 +149,7 @@ Core Focus: C# · ASP.NET Core · ASP.NET MVC · Blazor · SQL Server · REST AP
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 <table>
 <tr>
@@ -173,7 +173,7 @@ Enterprise HRMS platform supporting recruitment, attendance, leave, employee wor
 </td>
 <td width="33%" valign="top">
 
-### 📌 Trackk HRMIS
+###  Trackk HRMIS
 
 **Type:** Company Project  
 **Source Code:** Private  
@@ -191,7 +191,7 @@ Government-level HRMIS platform supporting large-scale employee data, HR workflo
 </td>
 <td width="33%" valign="top">
 
-### 🧩 USA Legacy Applications
+###  USA Legacy Applications
 
 **Type:** Client Projects  
 **Source Code:** Private  
@@ -215,14 +215,6 @@ Legacy .NET application maintenance for USA-based clients across trading and dig
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamtajmk&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies" />
-
-<br /><br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamtajmk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&title_color=14B8A6&icon_color=F59E0B&text_color=CBD5E1&bg_color=0F172A" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtajmk&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=14B8A6&text_color=CBD5E1&bg_color=0F172A" alt="Top Languages" />
-
 <br /><br />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=iamtajmk&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
@@ -235,7 +227,7 @@ Legacy .NET application maintenance for USA-based clients across trading and dig
 
 ---
 
-## 🧭 Professional Snapshot
+##  Professional Snapshot
 
 | Area | Focus |
 |---|---|
