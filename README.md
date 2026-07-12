@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:1E293B,100:14B8A6&text=Taj%20Muhammad&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=.NET%20Developer%20%7C%20Enterprise%20Web%20Applications%20%7C%20HRMS%20Systems&descAlignY=58&descSize=16" alt="Taj Muhammad GitHub Banner" />
 
-# Hi, I'm **Taj Muhammad** 👋
+# Hi, I'm **Taj Muhammad** 
 
 ### .NET Developer · ASP.NET Core · Blazor · SQL Server · Azure DevOps
 
